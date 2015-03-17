@@ -14,10 +14,14 @@ Beware of the lion …
 	- All the necessary specifications and internal details about the Babelbee
 - [Software](software/README.md)
 	- How to build, operate and extend our custom fork of the OpenWRT Linux
-- Application Examples
-	- Explore some ideas about what you can do with the Babelbee … if you have nothing better to do
+- Useless Things
+	- Explore some ideas about what you can do with the Babelbee … unless you have something better to do
+- Don't Panic!
+	- Found yourself in serious trouble? Get your towel and learn how to fix things
 
 
 ## Licence
 
-To be defined soon …
+To be defined soon … but most likely …
+
+[![Creative Commons Attribution-ShareAlike 4.0 International](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
